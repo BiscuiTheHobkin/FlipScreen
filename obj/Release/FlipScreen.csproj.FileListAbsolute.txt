@@ -1,0 +1,13 @@
+C:\Users\Biscuit\Desktop\FlipScreen\obj\Release\FlipScreen.csproj.AssemblyReference.cache
+C:\Users\Biscuit\Desktop\FlipScreen\obj\Release\FlipScreen.csproj.CoreCompileInputs.cache
+C:\Users\Biscuit\Desktop\FlipScreen\Output\MelonLoader.dll
+C:\Users\Biscuit\Desktop\FlipScreen\Output\UnityEngine.dll
+C:\Users\Biscuit\Desktop\FlipScreen\obj\Release\FlipScreen.csproj.Up2Date
+C:\Users\Biscuit\Desktop\FlipScreen\Output\Il2CppInterop.Runtime.dll
+C:\Users\Biscuit\Desktop\FlipScreen\Output\Il2Cppmscorlib.dll
+C:\Users\Biscuit\Desktop\FlipScreen\Output\UnityEngine.CoreModule.dll
+C:\Users\Biscuit\Desktop\FlipScreen\Output\UnityEngine.InputLegacyModule.dll
+C:\Users\Biscuit\Desktop\FlipScreen\Output\UnityEngine.InputModule.dll
+C:\Users\Biscuit\Desktop\FlipScreen\Output\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Biscuit\Desktop\FlipScreen\Output\FlipScreen.dll
+C:\Users\Biscuit\Desktop\FlipScreen\obj\Release\FlipScreen.dll
