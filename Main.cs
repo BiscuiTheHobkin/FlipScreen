@@ -23,7 +23,7 @@ namespace Flip
          MelonLogger.Msg("Use your left control key + Mouse ScrollWheel");
         }
 
-        public void Update()
+        public override void OnUpdate()
         {
             if (!Input.GetKey(KeyCode.LeftControl)) return;
 
